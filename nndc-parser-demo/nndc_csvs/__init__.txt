@@ -1,1 +1,10 @@
 # init nndc_csvs directory
+
+
+Use a sqlite viewing function like  SQLite Viewer in order to view .sqlite table format. 
+
+Web Viewer: https://inloop.github.io/sqlite-viewer/
+
+If working in python environments, VSCode has SQLite viewing extensions that allow the user to view the database within the environment.
+
+Recommended: SQLite Viewer (qwtel.sqlite-viewer)
