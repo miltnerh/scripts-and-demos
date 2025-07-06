@@ -1,0 +1,6 @@
+# init lvl-scheme-demo directory
+
+Usage of DrawLevels within Isomer API tool to draw level schemes within Qt application.
+
+DrawLevels Library: https://github.com/TheThirdFool/DrawLevels.git
+
