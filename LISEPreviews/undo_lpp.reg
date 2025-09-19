@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; Remove .lpp file class in case of errors
+
+[-HKEY_CLASSES_ROOT\.lpp]
+
+[-HKEY_CLASSES_ROOT\lppfile]

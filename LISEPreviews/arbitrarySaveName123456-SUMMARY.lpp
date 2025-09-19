@@ -1,0 +1,7 @@
+[settings]
+                   A,Z,Q = 26Mg12+                               ; Mass ElementName Charge+ Beam
+                  Energy = 220.5                MeV/u            
+               Intensity = 120                  pnA              ; enA,pna,pps,kW
+            RF frequency = 20                   MHz              
+            Bunch length = 1                    ns               
+         Settings on A,Z = 18Ne                                  ; Mass ElementName Charge+ Beam
